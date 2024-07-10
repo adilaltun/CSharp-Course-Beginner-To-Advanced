@@ -1,0 +1,7 @@
+C:\Users\adil.altun\source\repos\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\adil.altun\source\repos\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\adil.altun\source\repos\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\adil.altun\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\adil.altun\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\adil.altun\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\adil.altun\source\repos\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb

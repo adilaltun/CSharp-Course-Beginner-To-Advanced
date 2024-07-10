@@ -1,0 +1,11 @@
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe.config
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.pdb
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiers.exe
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiers.pdb
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiers.exe.config
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.AssemblyReference.cache
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CoreCompileInputs.cache
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessMo.1518B2BF.Up2Date
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.exe
+C:\Users\adil.altun\source\repos\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.pdb

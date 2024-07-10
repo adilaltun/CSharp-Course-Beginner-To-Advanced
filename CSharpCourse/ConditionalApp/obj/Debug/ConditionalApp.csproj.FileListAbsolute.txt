@@ -1,0 +1,7 @@
+C:\Users\adil.altun\source\repos\CSharpCourse\ConditionalApp\bin\Debug\ConditionalApp.exe.config
+C:\Users\adil.altun\source\repos\CSharpCourse\ConditionalApp\bin\Debug\ConditionalApp.exe
+C:\Users\adil.altun\source\repos\CSharpCourse\ConditionalApp\bin\Debug\ConditionalApp.pdb
+C:\Users\adil.altun\source\repos\CSharpCourse\ConditionalApp\obj\Debug\ConditionalApp.csproj.AssemblyReference.cache
+C:\Users\adil.altun\source\repos\CSharpCourse\ConditionalApp\obj\Debug\ConditionalApp.csproj.CoreCompileInputs.cache
+C:\Users\adil.altun\source\repos\CSharpCourse\ConditionalApp\obj\Debug\ConditionalApp.exe
+C:\Users\adil.altun\source\repos\CSharpCourse\ConditionalApp\obj\Debug\ConditionalApp.pdb
