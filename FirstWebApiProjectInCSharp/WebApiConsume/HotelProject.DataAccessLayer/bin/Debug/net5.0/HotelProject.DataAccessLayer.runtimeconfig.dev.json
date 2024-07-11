@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\adil.altun\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\adil.altun\\.nuget\\packages"
+    ]
+  }
+}
