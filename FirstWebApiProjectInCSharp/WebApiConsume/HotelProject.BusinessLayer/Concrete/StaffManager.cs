@@ -43,5 +43,6 @@ namespace HotelProject.BusinessLayer.Concrete
         {
             _staffDal.Update(entity);
         }
+
     }
 }

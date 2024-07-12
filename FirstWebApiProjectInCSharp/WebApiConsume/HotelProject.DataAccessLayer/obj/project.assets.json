@@ -6107,11 +6107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
       "projectName": "HotelProject.DataAccessLayer",
-      "projectPath": "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\adil.altun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adil.altun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6129,8 +6129,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
+            "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
             }
           }
         }
