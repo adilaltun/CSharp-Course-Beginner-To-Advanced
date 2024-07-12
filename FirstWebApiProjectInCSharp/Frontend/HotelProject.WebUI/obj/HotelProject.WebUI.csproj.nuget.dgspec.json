@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj": {}
+    "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj": {
+    "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
         "projectName": "HotelProject.WebUI",
-        "projectPath": "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+        "projectPath": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
         "packagesPath": "C:\\Users\\adil.altun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adil.altun\\source\\repos\\OurFirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\obj\\",
+        "outputPath": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\Frontend\\HotelProject.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adil.altun\\AppData\\Roaming\\NuGet\\NuGet.Config",

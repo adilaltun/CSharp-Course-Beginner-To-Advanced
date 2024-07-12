@@ -1,137 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\",
+  "WorkspaceRootPath": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.webapiconsume\\controller\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F71C0-7920-443F-B5E8-CA7435C70539}|WebApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:webapiconsume\\hotelproject.webapiconsume\\controller\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\hotelproject.businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\hotelproject.businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\hotelproject.businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18B1C3D2-E850-41AA-BFB1-69BB7A492191}|WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.entitylayer\\concrete\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18B1C3D2-E850-41AA-BFB1-69BB7A492191}|WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.entitylayer\\concrete\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18B1C3D2-E850-41AA-BFB1-69BB7A492191}|WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|solutionrelative:webapiconsume\\hotelproject.entitylayer\\concrete\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18B1C3D2-E850-41AA-BFB1-69BB7A492191}|WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.entitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18B1C3D2-E850-41AA-BFB1-69BB7A492191}|WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.entitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18B1C3D2-E850-41AA-BFB1-69BB7A492191}|WebApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|solutionrelative:webapiconsume\\hotelproject.entitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\abstract\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\istaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\istaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\abstract\\istaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efsubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efsubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efsubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\concrete\\testimonialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\concrete\\testimonialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\concrete\\testimonialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\concrete\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\concrete\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\concrete\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\concrete\\subscribemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\concrete\\subscribemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\concrete\\subscribemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E91E3ADE-F6F8-443E-B18A-62EA39447CE0}|ToDoList{E91E3ADE-F6F8-443E-B18A-62EA39447CE0}|C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\Steps.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{E91E3ADE-F6F8-443E-B18A-62EA39447CE0}|ToDoList{E91E3ADE-F6F8-443E-B18A-62EA39447CE0}|C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\Steps.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E91E3ADE-F6F8-443E-B18A-62EA39447CE0}|ToDoList{E91E3ADE-F6F8-443E-B18A-62EA39447CE0}|solutionrelative:Steps.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\iroomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\iroomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\abstract\\iroomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\abstract\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\abstract\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efroomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efroomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efroomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\entityframework\\efservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\itestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\itestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\abstract\\itestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\itestimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\itestimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\abstract\\itestimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\isubscribeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.businesslayer\\abstract\\isubscribeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE44D88-EBDB-4728-84E8-CB8C4D64ED57}|WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.businesslayer\\abstract\\isubscribeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\isubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\isubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\abstract\\isubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\desktop\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\iservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\adil.altun\\documents\\github\\csharp-course-beginner-to-advanced\\firstwebapiprojectincsharp\\webapiconsume\\hotelproject.dataaccesslayer\\abstract\\iservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D4D470-251C-49D3-A2B1-6770C0C4B98F}|WebApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:webapiconsume\\hotelproject.dataaccesslayer\\abstract\\iservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -142,54 +146,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.WebApiConsume\\appsettings.json",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\appsettings.json",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.WebApiConsume\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T09:06:15.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TestimonialController.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\TestimonialController.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\TestimonialController.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\TestimonialController.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\TestimonialController.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\TestimonialController.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\TestimonialController.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwDMAAAA8AAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T08:42:43.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Startup.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.WebApiConsume\\Startup.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Startup.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Startup.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.WebApiConsume\\Startup.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCQAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCYAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T12:08:53.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "RoomController.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\RoomController.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\RoomController.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\RoomController.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\RoomController.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\RoomController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowAcAAAAXAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T11:54:55.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\ServiceController.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\ServiceController.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\ServiceController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,11 +215,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "StaffController.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\StaffController.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\StaffController.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\StaffController.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\StaffController.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\StaffController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SubscribeController.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\SubscribeController.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\SubscribeController.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\SubscribeController.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\SubscribeController.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.WebApiConsume\\Controller\\SubscribeController.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.WebApiConsume\\Controller\\SubscribeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Repositories\\GenericRepository.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HotelProject.BusinessLayer",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+              "DocumentIndex": 8,
+              "Title": "HotelProject.BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
               "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -250,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Room.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,291 +280,315 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Service.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Service.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Service.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Service.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Service.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.EntityLayer\\Concrete\\Service.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T13:47:47.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EfSubscribeDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:21:44.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IServiceService.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IServiceService.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IServiceService.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IServiceService.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IServiceService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:29:09.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IGenericService.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:26:25.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EfTestimonialDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:22:36.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ServiceManager.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T11:30:13.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IStaffDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IStaffDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IStaffDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IStaffDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IStaffDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:49:16.611Z"
+              "WhenOpened": "2024-07-11T13:47:47.899Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "TestimonialManager.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwCsAAAArAAAA",
+              "Title": "EfSubscribeDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T11:49:00.733Z"
+              "WhenOpened": "2024-07-11T10:21:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IServiceService.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IServiceService.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IServiceService.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IServiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:29:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:26:25.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "IGenericDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Title": "EfTestimonialDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:29:09.044Z"
+              "WhenOpened": "2024-07-11T10:22:36.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SubscribeManager.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCsAAAApAAAA",
+              "DocumentIndex": 13,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T11:36:58.749Z"
+              "WhenOpened": "2024-07-11T11:30:13.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Steps.txt",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\Steps.txt",
-              "RelativeDocumentMoniker": "Steps.txt",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\Steps.txt",
-              "RelativeToolTip": "Steps.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-11T11:52:30.804Z"
+              "DocumentIndex": 14,
+              "Title": "IStaffDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IStaffDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IStaffDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IStaffDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IStaffDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:49:16.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "RoomManager.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Title": "TestimonialManager.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T11:25:28.423Z"
+              "WhenOpened": "2024-07-11T11:49:00.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IStaffService.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IStaffService.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IStaffService.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IStaffService.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IStaffService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "DocumentIndex": 16,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:29:42.553Z"
+              "WhenOpened": "2024-07-11T08:29:09.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SubscribeManager.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:36:58.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "IRoomDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IRoomDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IRoomDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IRoomDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IRoomDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:47:20.911Z"
+              "Title": "Steps.txt",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\Steps.txt",
+              "RelativeDocumentMoniker": "Steps.txt",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\Steps.txt",
+              "RelativeToolTip": "Steps.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-11T11:52:30.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "EfRoomDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfRoomDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfRoomDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfRoomDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfRoomDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "DocumentIndex": 19,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:18:04.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EfStaffDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:19:28.909Z"
+              "WhenOpened": "2024-07-11T11:25:28.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "IRoomService.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IRoomService.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IRoomService.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IRoomService.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IRoomService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "IStaffService.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IStaffService.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IStaffService.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IStaffService.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IStaffService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:28:09.121Z"
+              "WhenOpened": "2024-07-11T10:29:42.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRoomDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IRoomDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IRoomDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IRoomDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IRoomDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:47:20.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EfRoomDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfRoomDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfRoomDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfRoomDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfRoomDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:18:04.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "EfServiceDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfServiceDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfServiceDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfServiceDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfServiceDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Title": "EfStaffDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:20:54.4Z"
+              "WhenOpened": "2024-07-11T10:19:28.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IRoomService.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IRoomService.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\IRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:28:09.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "ITestimonialDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Title": "EfServiceDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfServiceDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfServiceDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfServiceDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfServiceDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:50:41.501Z"
+              "WhenOpened": "2024-07-11T10:20:54.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ITestimonialDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ITestimonialDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:55:02.624Z"
+              "WhenOpened": "2024-07-11T08:50:41.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "ITestimonialService.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ITestimonialService.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ITestimonialService.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ITestimonialService.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ITestimonialService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:30:51.432Z"
+              "WhenOpened": "2024-07-11T08:55:02.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "ISubscribeService.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "Title": "ITestimonialService.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ITestimonialService.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ITestimonialService.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ITestimonialService.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ITestimonialService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:30:11.373Z"
+              "WhenOpened": "2024-07-11T10:30:51.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "ISubscribeDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISubscribeDal.cs",
-              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISubscribeDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISubscribeDal.cs",
-              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISubscribeDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Title": "ISubscribeService.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:50:10.62Z"
+              "WhenOpened": "2024-07-11T10:30:11.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
+              "Title": "ISubscribeDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISubscribeDal.cs",
+              "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISubscribeDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISubscribeDal.cs",
+              "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\ISubscribeDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:50:10.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "IServiceDal.cs",
-              "DocumentMoniker": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IServiceDal.cs",
+              "DocumentMoniker": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IServiceDal.cs",
               "RelativeDocumentMoniker": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IServiceDal.cs",
-              "ToolTip": "C:\\Users\\adil.altun\\Desktop\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IServiceDal.cs",
+              "ToolTip": "C:\\Users\\adil.altun\\Documents\\GitHub\\CSharp-Course-Beginner-To-Advanced\\FirstWebApiProjectInCSharp\\WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IServiceDal.cs",
               "RelativeToolTip": "WebApiConsume\\HotelProject.DataAccessLayer\\Abstract\\IServiceDal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:48:14.434Z"
+              "WhenOpened": "2024-07-11T08:48:14.434Z",
+              "EditorCaption": ""
             }
           ]
         }
